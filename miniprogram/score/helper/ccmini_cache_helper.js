@@ -1,8 +1,3 @@
-/**
- * Notes: 微信缓存二次封装，有设置时效性的封装
- * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY www.code942.com
- * Date: 2020-11-14 07:48:00 
- */
 
 const TIME_SUFFIX = "_deadtime"
 const CCMINI_SETTING = require('./ccmini_setting.js');
