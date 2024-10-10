@@ -1,8 +1,3 @@
-/**
- * Notes: 公告通知后台管理模块业务逻辑
- * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY www.code942.com
- * Date: 2020-11-14 07:48:00 
- */
 
 const ccminiCloudHelper = require('../helper/ccmini_cloud_helper.js');
 const BaseCCMiniBiz = require('./base_ccmini_biz.js'); 
