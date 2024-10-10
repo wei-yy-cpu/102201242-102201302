@@ -1,8 +1,4 @@
-/**
- * we-cropper v1.3.9
- * (c) 2020 dlhandsome
- * @license MIT
- */
+
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
 	typeof define === 'function' && define.amd ? define(factory) :
