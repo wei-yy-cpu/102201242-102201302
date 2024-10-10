@@ -1,8 +1,4 @@
-  /**
-   * Notes: 配置文件
-   * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY www.code942.com
-   * Date: 2021-07-14 07:48:00 
-   */
+
   module.exports = {
  
 
