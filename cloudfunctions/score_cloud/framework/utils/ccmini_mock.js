@@ -1,19 +1,4 @@
- // +----------------------------------------------------------------------
-// | CCMiniCloud [ Cloud Framework ]
-// +----------------------------------------------------------------------
-// | Copyright (c) 2021 www.code942.com All rights reserved.
-// +----------------------------------------------------------------------
-// | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
-// +----------------------------------------------------------------------
-// | Author: 明章科技
-// +----------------------------------------------------------------------
- 
-/**
- * Notes: 测试数据构造库
- * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY www.code942.com
- * Date: 2021-05-26 14:00:00
- * Version : CCMiniCloud Framework Ver 2.0.1 ALL RIGHTS RESERVED BY 明章科技
- */ 
+
 const ccminiTimeUtil = require('./ccmini_time_util.js');
 
 
