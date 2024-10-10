@@ -1,8 +1,3 @@
- /**
-  * Notes: 通用页面操作类库
-  * Ver : CCMiniCloud Framework 2.0.1 ALL RIGHTS RESERVED BY www.code942.com
-  * Date: 2020-11-14 07:48:00 
-  */
 
  const ccminiHelper = require('../helper/ccmini_helper.js');
  const CCMINI_SETTING = require('./ccmini_setting.js');
